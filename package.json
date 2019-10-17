@@ -1,12 +1,16 @@
 {
+<<<<<<< HEAD
     "name": "Cursoprogramacon",
+=======
+    "name": "MarcoProgramacion2dia",
+>>>>>>> 19f8aefdd409144a8fc6bd44ec0d4c0010f90fb6
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
         "settings": {
-            "flowFile": "flow.json",
-            "credentialsFile": "flow_cred.json"
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
         }
     }
 }
